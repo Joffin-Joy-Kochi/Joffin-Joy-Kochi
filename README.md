@@ -2,6 +2,8 @@
 - 👀 I’m interested in VLSI Technology
 - 🌱 I have done Masters in VLSI and Embedded Systems from Model Engineering college Thrikkakara Kochi
 - 💞️ I’m looking to collaborate on Vlsi projects
+-    I have 3 year experience in SoC design verification
+-    I am learner who is interested in Digital electronics, Ai and Edge computing
 - 📫 Reach me at Joffinpj55@gmail.com
 
 <!---

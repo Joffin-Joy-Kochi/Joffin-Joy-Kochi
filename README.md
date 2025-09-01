@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Joffin-Joy-Kochi
 - 👀 I’m interested in VLSI Technology
-- 🌱 I’m currently learning Master of Technology in VLSI and Embedded Systems at Model Engineering college Thrikkakara Kochi
+- 🌱 I have done Masters in VLSI and Embedded Systems from Model Engineering college Thrikkakara Kochi
 - 💞️ I’m looking to collaborate on Vlsi projects
 - 📫 Reach me at Joffinpj55@gmail.com
 
